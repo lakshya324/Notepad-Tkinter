@@ -15,7 +15,7 @@ root.geometry("1280x720")
 a="untitle.txt"
 
 root.title(a + " -Notepad by Lakshya")
-root.wm_iconbitmap("F:/Coding/python/Run-WorkShop/Completed-Projects/Notepad_by-Lakshya/file.ico")
+root.wm_iconbitmap("file.ico")
 
 s=Scrollbar(root)
 s.pack(side="right",fill=Y)
